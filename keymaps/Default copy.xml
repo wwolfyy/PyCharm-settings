@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="Resume" />
+</keymap>
