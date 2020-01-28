@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e800029-507a-488c-8301-6e2ce8f94deb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1WvtvAn5H0Tl5WYegz4RQiGkdV5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Google Drive/[DONOTUSE] Python Code (JP@wadilt)/ML_preds_compile" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python Code (JP@wadilt)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e800029-507a-488c-8301-6e2ce8f94deb" name="Default Changelist" comment="" />
+      <created>1580042124273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580042124273</updated>
+      <workItem from="1580042132734" duration="239000" />
+      <workItem from="1580185856064" duration="1268000" />
+      <workItem from="1580187247227" duration="66000" />
+      <workItem from="1580187323285" duration="448000" />
+      <workItem from="1580187782889" duration="1393000" />
+      <workItem from="1580190932761" duration="88000" />
+      <workItem from="1580191334723" duration="116000" />
+      <workItem from="1580191461108" duration="216000" />
+      <workItem from="1580191685728" duration="35000" />
+      <workItem from="1580191729064" duration="483000" />
+      <workItem from="1580192222604" duration="321000" />
+      <workItem from="1580192553626" duration="421000" />
+      <workItem from="1580193459499" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1978" y="362" key="#Inspections" timestamp="1580191018030">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1978" y="362" key="#Inspections/0.0.3440.1400@0.0.3440.1400" timestamp="1580191018030" />
+    <state x="1978" y="359" key="#Notifications" timestamp="1580191379460">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1978" y="359" key="#Notifications/0.0.3440.1400@0.0.3440.1400" timestamp="1580191379460" />
+    <state x="2166" y="459" key="FileChooserDialogImpl" timestamp="1580042311701">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2166" y="459" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1580042311701" />
+    <state x="2057" y="216" key="SettingsEditor" timestamp="1580192538552">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2057" y="216" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1580192538552" />
+    <state x="2095" y="529" key="com.intellij.ide.util.TipDialog" timestamp="1580193460823">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2095" y="529" key="com.intellij.ide.util.TipDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1580193460823" />
+  </component>
+</project>

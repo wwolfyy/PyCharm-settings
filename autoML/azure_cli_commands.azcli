@@ -1,0 +1,16 @@
+az login
+
+[
+  {
+    "cloudName": "AzureCloud",
+    "id": "1a653f13-bee2-4093-8c1b-97dddb149720",
+    "isDefault": true,
+    "name": "Azure subscription 1",
+    "state": "Enabled",
+    "tenantId": "6494a0ca-4da7-4b28-af99-5a2dbc984852",
+    "user": {
+      "name": "jaesangpark@hotmail.com",
+      "type": "user"
+    }
+  }
+]

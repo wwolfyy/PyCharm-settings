@@ -1,0 +1,27 @@
+------------------ for WF backtest
+
+settle on model to use for WF prediction (for 4.1)
+
+get / retrieve checkpoint network
+
+make prediction and save in CSV or .mat
+
+write WF routine in for loop
+
+get 5-day moving average of r-squared as metric
+	start w/ AC code -- check if correct first (no intercept)
+
+wrtie early stop callback based on 5day-movR2
+
+predict and write CSV file (append new predictions)
+
+------------------ for 
+nested ifs for training/selecting weekly models
+	(review plots)
+	choose another network?
+		accept trained network?
+			retrain?
+				moreEP or start over?
+
+use tesorboard
+

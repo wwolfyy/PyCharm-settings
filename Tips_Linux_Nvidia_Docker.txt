@@ -1,0 +1,20 @@
+# main directory path on ubuntu
+/home/lstm/Desktop/JP
+
+# run docker images with cuda
+sudo nvidia-docker run -it --rm -v /home/lstm/Desktop/JP:/test nvcr.io/nvidia/tensorflow:19.03-py3
+sudo nvidia-docker run -it --rm -v /home/lstm/snap/odrive-unofficial/2/Google_Drive/Data_Release:/test mcr.microsoft.com/cntk/release
+
+# release resource limits on docker container
+--shm-size=1g --ulimit memlock=-1
+
+# start Jupyter notebook with Docker container
+docker run --runtime=nvidia -it -p "8888:8888" -v /home/lstm/Desktop/WIP/Project_MXnet:/data nvcr.io/nvidia/mxnet:19.04-py3
+jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root --no-browser .
+
+# convert jupyter notebook to python file (run inside notebook)
+!ipython nbconvert --to=python config_template.ipynb
+
+# install nvidia drivers
+https://medium.com/@antonioszeto/how-to-install-nvidia-driver-on-ubuntu-18-04-7b464bab43e6
+
