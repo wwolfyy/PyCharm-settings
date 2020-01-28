@@ -3,7 +3,7 @@
     <property name="created">2019-04-22T16:18:32</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-01-28T14:15:28</property>
+    <property name="modified">2020-01-28T15:16:45</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -12,6 +12,14 @@
   <attributes>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="JUPYTER_CELL_MARKER">
+      <value>
+        <option name="FOREGROUND" value="da3422" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
@@ -23,7 +31,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
