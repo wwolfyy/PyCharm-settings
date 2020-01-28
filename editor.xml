@@ -1,14 +1,5 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="REFORMAT_ON_PASTE" value="1" />
-    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
-  </component>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Verdana" />
-    <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
+    <option name="FONT_FAMILY" value="Consolas" />
   </component>
 </application>
