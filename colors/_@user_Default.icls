@@ -3,7 +3,7 @@
     <property name="created">2019-04-22T16:18:32</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-02-20T08:26:50</property>
+    <property name="modified">2020-02-22T08:05:11</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -52,10 +52,28 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PY.BRACES">
+      <value />
+    </option>
+    <option name="PY.BRACKETS">
+      <value />
+    </option>
     <option name="PY.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="af6703" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value />
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fffff9" />
+        <option name="BACKGROUND" value="2054a7" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="ff92a5" />
+        <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
   </attributes>
