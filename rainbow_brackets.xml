@@ -1,6 +1,9 @@
 <application>
   <component name="RainbowSettings">
+    <option name="applyColorsOfRoundForAllBrackets" value="true" />
     <option name="customNotifyShowed" value="true" />
+    <option name="cycleCountOnAllBrackets" value="true" />
+    <option name="numberOfColors" value="10" />
     <option name="version" value="5.33" />
   </component>
 </application>

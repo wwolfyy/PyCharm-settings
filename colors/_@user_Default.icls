@@ -3,7 +3,7 @@
     <property name="created">2019-04-22T16:18:32</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-02-22T08:05:11</property>
+    <property name="modified">2020-02-22T08:21:57</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -64,8 +64,30 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="TEXT">
-      <value />
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="da3422" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="f58ff" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="ff92a5" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="33b438" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="c8ca0e" />
+      </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>

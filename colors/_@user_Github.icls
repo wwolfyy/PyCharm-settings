@@ -3,7 +3,7 @@
     <property name="created">2020-02-20T08:24:16</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-02-22T08:05:11</property>
+    <property name="modified">2020-02-22T08:21:57</property>
     <property name="originalScheme">Github</property>
   </metaInfo>
   <colors>
@@ -907,6 +907,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_COMMENT">
       <value>
         <option name="FOREGROUND" value="969896" />
@@ -1112,6 +1115,14 @@
         <option name="FOREGROUND" value="9926" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LABEL">
       <value>
         <option name="FOREGROUND" value="a71d5d" />
@@ -1130,6 +1141,12 @@
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="795da3" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="OC.BADCHARACTER">
