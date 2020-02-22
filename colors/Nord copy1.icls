@@ -1,16 +1,18 @@
-<scheme name="_@user_Nord" version="142" parent_scheme="Darcula">
+<scheme name="Nord copy1" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-02-22T08:16:29</property>
+    <property name="created">2020-02-22T08:48:16</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-02-22T08:48:02</property>
-    <property name="originalScheme">Nord</property>
+    <property name="modified">2020-02-22T09:08:13</property>
+    <property name="originalScheme">_@user_Nord</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Verdana" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Verdana" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
     <option name="ANNOTATIONS_COLOR" value="d8dee9" />
@@ -90,6 +92,26 @@
       <value>
         <option name="FOREGROUND" value="88c0d0" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="81e184" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="3595e8" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="bb80a7" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="ff8c5a" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -955,7 +977,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="9c7232" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -1077,7 +1099,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="9c7232" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -3695,7 +3717,7 @@
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="9c7232" />
       </value>
     </option>
     <option name="PY.METHOD_CALL">
@@ -4421,7 +4443,27 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="626c93" />
+        <option name="FOREGROUND" value="ff8c5a" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="81e184" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="3595e8" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="bb80a7" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="ff8c5a" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
