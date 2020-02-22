@@ -4,7 +4,7 @@
     <property name="created">2020-02-22T08:48:16</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-02-22T09:44:33</property>
+    <property name="modified">2020-02-22T15:51:17</property>
     <property name="originalScheme">_@user_Nord</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -31,7 +31,7 @@
     <option name="DIAGRAM_NOTE_BORDER" value="434c5e" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="a3be8c" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="4c566a" />
-    <option name="DOCUMENTATION_COLOR" value="3b4252" />
+    <option name="DOCUMENTATION_COLOR" value="2e3440" />
     <option name="ERROR_HINT" value="434c5e" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
@@ -66,7 +66,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="4c566a" />
     <option name="SELECTED_INDENT_GUIDE" value="616e88" />
     <option name="SELECTED_TEARLINE_COLOR" value="434c5e" />
-    <option name="SELECTION_BACKGROUND" value="434c5e" />
+    <option name="SELECTION_BACKGROUND" value="4734" />
     <option name="SEPARATOR_ABOVE_COLOR" value="4c566a" />
     <option name="SEPARATOR_BELOW_COLOR" value="4c566a" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4c566a" />
