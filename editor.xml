@@ -3,4 +3,14 @@
     <option name="FONT_FAMILY" value="Verdana" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(fixme)\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\b(todo)\b.*">
+      <option name="FOREGROUND" value="fffff9" />
+      <option name="BACKGROUND" value="a4592a" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="fffff9" />
+      <option name="ERROR_STRIPE_COLOR" value="88c0d0" />
+    </pattern>
+  </component>
 </application>
