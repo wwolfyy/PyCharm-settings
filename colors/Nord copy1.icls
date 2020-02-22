@@ -4,7 +4,7 @@
     <property name="created">2020-02-22T08:48:16</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-02-22T15:51:17</property>
+    <property name="modified">2020-02-22T16:06:27</property>
     <property name="originalScheme">_@user_Nord</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -66,7 +66,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="4c566a" />
     <option name="SELECTED_INDENT_GUIDE" value="616e88" />
     <option name="SELECTED_TEARLINE_COLOR" value="434c5e" />
-    <option name="SELECTION_BACKGROUND" value="4734" />
+    <option name="SELECTION_BACKGROUND" value="403e47" />
     <option name="SEPARATOR_ABOVE_COLOR" value="4c566a" />
     <option name="SEPARATOR_BELOW_COLOR" value="4c566a" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4c566a" />
@@ -619,7 +619,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bf616a" />
+        <option name="FOREGROUND" value="c56d75" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -4640,7 +4640,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="292e38" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
