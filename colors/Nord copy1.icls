@@ -4,7 +4,7 @@
     <property name="created">2020-02-22T08:48:16</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-02-22T09:18:39</property>
+    <property name="modified">2020-02-22T09:33:59</property>
     <property name="originalScheme">_@user_Nord</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -4653,8 +4653,10 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="88c0d0" />
+        <option name="FOREGROUND" value="fffff9" />
+        <option name="BACKGROUND" value="2054a7" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="fffff9" />
         <option name="ERROR_STRIPE_COLOR" value="88c0d0" />
       </value>
     </option>
